@@ -1,0 +1,7 @@
+A journalist asked a programmer: what makes code bad?
+No comment
+
+If having a coffee in the morning doesn't wake you, try deleting a table in a production database instead.
+
+How many programmers does it take to screw in a light bulb?
+None, it's a hardware problem.
